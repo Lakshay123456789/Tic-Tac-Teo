@@ -22,7 +22,7 @@ int main(){
     char a[10]={'0','1','2','3','4','5','6','7','8','9'};
     char str1[20],str2[20],count;
     printf("    Enter your choice\n\n");
-    printf("          1. Want to plany with smart computer\n");
+    printf("          1. Want to play with smart computer\n");
     printf("          2. Want to play with Evil computer\n");
     printf("          3. Want to play with player\n");
     printf("          4. Exit\n");
